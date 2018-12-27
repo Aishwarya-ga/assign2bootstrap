@@ -1,0 +1,54 @@
+html,body{
+    height:100%;
+}
+nav{
+    width:100%;
+}
+#cover{
+    background:#222 url("../img/boeing2.jpg") center center no-repeat;
+    background-size:cover;
+    color:white;
+    height: 100%;
+    display:flex;
+    text-align:center;
+    opacity:0.9;
+    align-items:center;
+   
+}
+
+img{
+    max-width:100%;
+   
+}
+#cover-caption{
+    width:100%;
+}
+.section-content{
+    padding:5rem 0;
+}
+img{
+    width:100%;
+}
+#about{
+    background: url("../img/about.jpeg") center center no-repeat;
+    background-size: cover;
+}
+.about-text{
+
+    background: rgba(0,0,0,0);
+    color:black;
+    padding:1.875rem;
+    font-weight: bold;
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    
+    position:absolute;
+    }
