@@ -30,7 +30,7 @@ img{
     width:100%;
 }
 #about{
-    background: url("../assign-2/img/about.jpeg") center center no-repeat;
+    background: url("../img/about.jpeg") center center no-repeat;
     background-size: cover;
 }
 .about-text{
