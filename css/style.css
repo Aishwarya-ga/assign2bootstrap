@@ -30,7 +30,7 @@ img{
     width:100%;
 }
 #about{
-    background: url("../img/about.jpeg") center center no-repeat;
+    background: url("/home/user/Documents/vscode-assign/assign-2/img/about.jpeg") center center no-repeat;
     background-size: cover;
 }
 .about-text{
