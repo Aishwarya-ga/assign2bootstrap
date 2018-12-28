@@ -5,7 +5,7 @@ nav{
     width:100%;
 }
 #cover{
-    background:#222 url("../assign-2/img/boeing2.jpg") center center no-repeat;
+    background:#222 url("img/boeing2.jpg") center center no-repeat;
     background-size:cover;
     color:white;
     height: 100%;
@@ -30,7 +30,7 @@ img{
     width:100%;
 }
 #about{
-    background: url("../img/about.jpeg") center center no-repeat;
+    background: url("img/about.jpeg") center center no-repeat;
     background-size: cover;
 }
 .about-text{
